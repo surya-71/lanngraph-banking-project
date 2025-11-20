@@ -48,6 +48,8 @@ If needed, escalates to fraud team.
 
 ## 📊 Example LangGraph Agent
 ```pythonfrom langgraph.graph import StateGraph
+output
+high risk
 
 def risk_analysis(transaction):
     if transaction.amount > 100000:
@@ -61,3 +63,10 @@ graph.set_entry_point("risk_node")
 app = graph.compile()
 output = app.invoke({"amount": 120000})
 print(output)
+conclusion
+---
+
+✔ After pasting → scroll down → *Commit changes*  
+Your file will be fully updated.
+
+Tell me when done — I’ll give you *Step 3 (Add images)* or *VS Code upload steps*.
