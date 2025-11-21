@@ -5,8 +5,8 @@ draft: false
 description: "Explore how LLMs are transforming fraud detection with behavioral profiling, anomaly detection, explainable alerts, and real-time transaction monitoring in modern banking."
 tags: ["generative-ai", "llm-in-banking", "fraud-detection", "transaction-monitoring", "fintech", "risk-management"]
 categories: ["LLM Use Cases in Banking"]
-author: "Yatiraj [Your Last Name]"
-image: "/images/fraud-detection-llm-cover.jpg"
+author: " [surya DS]"
+image: "fraud deytection images.jpg"
 ---
 
 # How Large Language Models are Revolutionizing Fraud Detection and Real-Time Transaction Monitoring in Banking
