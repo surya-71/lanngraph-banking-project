@@ -6,7 +6,7 @@ description: "Explore how LLMs are transforming fraud detection with behavioral 
 tags: ["generative-ai", "llm-in-banking", "fraud-detection", "transaction-monitoring", "fintech", "risk-management"]
 categories: ["LLM Use Cases in Banking"]
 author: " [surya DS]"
-image: "frauddeytection images.png"
+image: "frauddetection images.png"
 ---
 
 # How Large Language Models are Revolutionizing Fraud Detection and Real-Time Transaction Monitoring in Banking
@@ -86,3 +86,15 @@ The banks that adopt LLM-powered fraud detection today will define the security 
 
 ---
 Ready to future-proof your banking fraud systems with GenAI? Start small with transaction remark analysis — the ROI is immediate.
+# Fraud Detection in Bankin# Fraud Detection in Banking Using LangGraph
+This project demonstrates fraud detection in banking using AI/ML.
+## Preview
+![Fraud Detection Workflow](Fraud _Detection .png)
+
+## Technologies
+- LangGraph
+- Python
+- GitHub
+
+## Author
+Surya D S
