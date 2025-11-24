@@ -90,7 +90,7 @@ Ready to future-proof your banking fraud systems with GenAI? Start small with tr
 This project demonstrates fraud detection in banking using AI/ML.
 ## Preview
 ![Fraud Detection Workflow](graph.png)
-
+![Fraud Detection Workflow](teams.png)
 ## Technologies
 - LangGraph
 - Python
