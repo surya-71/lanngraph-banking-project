@@ -88,8 +88,8 @@ The banks that adopt LLM-powered fraud detection today will define the security 
 Ready to future-proof your banking fraud systems with GenAI? Start small with transaction remark analysis — the ROI is immediate.
 # Fraud Detection in Bankin# Fraud Detection in Banking Using LangGraph
 This project demonstrates fraud detection in banking using AI/ML.
-## Preview
-![Fraud Detection Workflow](graph.png)(teams.png)
+## Previewf
+![Fraud Detection Workflow](graph.png)![Fraud Detection Workflow](teams.png)
 
 ## Technologies
 - LangGraph
